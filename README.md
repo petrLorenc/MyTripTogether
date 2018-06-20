@@ -10,65 +10,65 @@ Each "meeting" will be represented as a standalone document in folder "meetings"
 
 Example Header of the document:
 
-//DD-MM-YY-Topic
-//Parties included
-//Input: XX
-//Expected output: YY
+	#DD-MM-YY-Topic
+	#Parties included
+	#Input: XX
+	#Expected output: YY
 
 I will also create a folder for each tool, where I put some additional and useful information about that tool (tutorial, cheatsheets ...)
 
 Example Header:
 
-//Name:
-//Where and when to use
+	#Name:
+	#Where and when to use
 
 
 ## Tools
 
 Communication:
 
-	* No need in this case
-	* Slack
-	* Google hangouts
-	* Through documents 
+ * No need in this case
+ * Slack
+ * Google hangouts
+ * Through documents 
 
 Storage:
 
-	* Github
-	* Google drive for big files
+ * Github
+ * Google drive for big files
 
 Todo list:
 
-	* Trello
+ * Trello
 
 Ticket system:
 
-	* Trello
-	* already experience with YouTrack
+ * Trello
+ * already experience with YouTrack
 
 Work/Time planning:
 
-	* Google Calendar
-	* Google Documents - User stories
+ * Google Calendar
+ * Google Documents - User stories
 
 
 Design tools:
 
-	* Fluid UI - design model
-	* SqlDBM - database model
-	* Google web designer
+ * Fluid UI - design model
+ * SqlDBM - database model
+ * Google web designer
 
 
 Programming tools:
 	
-	* Android studio
-	* IntellJ IDEA
-	* Visual Code Studio
+ * Android studio
+ * IntellJ IDEA
+ * Visual Code Studio
 
 Would like to take closer look:
 
-	* Confluence
-	* ZenHub
-	* Asana
-	* Zapier
+ * Confluence
+ * ZenHub
+ * Asana
+ * Zapier
 
