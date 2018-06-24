@@ -1,18 +1,19 @@
-	#20-06-21-Project Charter day
+	#20-06-18-Project Charter day
 	#Parties included: Founders, PM
 	#Input: Idea
 	#Expected output: Project Charter
 
+REASON OF THIS DOCUMENT: formally authorizes the existence of a project, and provides the project manager with the authority to apply organizational resources to project activities, have not to be so deep
 
-Overview of the Project
+**Overview of the Project**
 
  * Application for helping group of friend select sightseeing’s spots which are interesting for most of them (without fighting)
 
-Purpose of the Project Charter
+**Purpose of the Project Charter**
 
  * The Project Charter will be reviewed by the project team (represented by Petr Lorenc) and approved. The final approval will be the Petr Lorenc (numero uno).
 
-Project Objective and Scope Objective
+**Project Objective and Scope Objective**
 
  * Q3 of 2018 - having basic collection of images with geo data 
  * Q3 of 2018 - having contract with at least 10 hotels in each country
@@ -25,7 +26,7 @@ Project Objective and Scope Objective
  * Q1 of 2019 - feature of planning route based on selected places
  * Q2 of 2019 - native Android/iOS app
 
-Scope
+**Scope**
 
  * Establish connection with data/image provider
  * Contract with hotels and flight ticker seller
@@ -33,12 +34,12 @@ Scope
  * Increase programming team in Q2 of 2019
  * Establish development team
 
-Not into Scope
+**Not into Scope**
 
  * Law needed to establish a firm
  * Law research about storing images
 
-Major Milestones
+**Major Milestones**
 
  * Having image data
  * Contract with hotels
@@ -48,7 +49,7 @@ Major Milestones
  * Android/iOS app
 
 
-Major Deliverables
+**Major Deliverables**
 
  * Web application
  * Mobile application
@@ -56,27 +57,27 @@ Major Deliverables
  * Image databases
  * Policies with hotels and flight seller
 
-Assumptions
+**Assumptions**
 
  * Hotels will be attracted by offer to promote them
  * Friend will want to cooperate and there won’t be any sabotage
  * No sabotage from side of image and map provider
 
-Constraints
+**Constraints**
 
  * Group of min 1 and max 10 people
  * Route will be based on data from Google Maps (no assurance about correctness)
  * Link will be valid for certain amount of time
 
-Business Need or Opportunity
+**Business Need or Opportunity**
 
  * The goal of this project is providing another point of view on choosing and planning your trip
 
-Preliminary Cost for the Project
+**Preliminary Cost for the Project**
 
  * The team will assemble a proposal based on expected costs for review by the Petr Lorenc. (Next meeting)
 
-Project Charter Acceptance
+**Project Charter Acceptance**
 
  * Petr Lorenc, Petr Lorenc, Petr Lorenc Signatures
 
