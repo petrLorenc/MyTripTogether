@@ -77,6 +77,7 @@ REASON OF THIS DOCUMENT: work that must be performed to deliver a product and al
 
  * There cannot be less than 1 and more than 10 people in one group
    * Bigger group would need more computer power - need to buy more computer power
+   * More users will be available for special fee -> for universities and schools
  * Route will be based on data from Google Maps (no assurance about correctness)
    * Curated map layer from OpenStreetMap - need another person to check route and corrent then based on reported problems
    * Own dealing with data to store the map

@@ -65,7 +65,7 @@ REASON OF THIS DOCUMENT: formally authorizes the existence of a project, and pro
 
 **Constraints**
 
- * Group of min 1 and max 10 people
+ * Group of min 1 and max 10 people (up to 100 for universities and schools)
  * Route will be based on data from Google Maps (no assurance about correctness)
  * Link will be valid for certain amount of time
 
