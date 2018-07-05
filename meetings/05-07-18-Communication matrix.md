@@ -30,7 +30,7 @@ Format:
      * Estimated duration - 
      * Special tools - 
 
- * Daily meetup 
+ * **Daily meetup**
      * Who initiates the meeting - PM 
      * Target audience - Developer, designer, tester and marketing
      * Purpose of communication - Tell about work from previous day and resolve problem which can be disruptive today
@@ -40,7 +40,7 @@ Format:
      * Estimated duration - 10 min
      * Special tools - Table/YouTrack/Marker
 
-* Week meetup 
+* **Week meetup** 
      * Who initiates the meeting - PM 
      * Target audience - Investors/Founders
      * Purpose of communication - How is work going to pursue the goal (creating the application)
@@ -51,7 +51,7 @@ Format:
      * Special tools - Skype
 
 
- * Sprint planning meetup
+ * **Sprint planning meetup**
      * Who initiates the meeting - PM
      * Target audience - Developer, designer, tester and marketing
      * Purpose of communication - To plan main goals of 2-week periods 
@@ -62,7 +62,7 @@ Format:
      * Special tools - Table/YouTrack/Marker
 
 
- * Retro after Sprint planning meetup
+ * **Retro after Sprint planning meetup**
      * Who initiates the meeting - PM
      * Target audience - Developer, designer, tester and marketing
      * Purpose of communication - Say what was good/bad about previous 2 weeks and review overall progress
@@ -73,7 +73,7 @@ Format:
      * Special tools - Stickers/Table
 
 
-  * Sharing new technology
+  * **Sharing new technology**
      * Who initiates the meeting - Choosen speaker from previous meeting
      * Target audience - Developer, designer, tester and marketing
      * Purpose of communication - To show certain interesting area of speaker's life - does not have to related with work
