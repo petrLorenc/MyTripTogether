@@ -2,7 +2,7 @@
   "name": "mytriptogether",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://petrlorenc.github.io/mytriptogether",
+  "homepage": "https://petrlorenc.github.io/MyTripTogether/landpage/mytriptogether/",
   "dependencies": {
     "gh-pages": "^1.2.0",
     "react": "^16.4.1",
