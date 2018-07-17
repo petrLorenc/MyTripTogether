@@ -1,7 +1,7 @@
-  #26-06-18-Market Research day
-  #Parties included: Founders, PM, Market research team
-  #Input: Project Scope, Idea
-  #Expected output: Competitors and Market size/possibility of revenue
+    #26-06-18-Market Research day
+    #Parties included: Founders, PM, Market research team
+    #Input: Project Scope, Idea
+    #Expected output: Competitors and Market size/possibility of revenue
 
 REASON OF THIS DOCUMENT: When we finally get basic knowledge what we want to develop (and what not) we can focus on market research and find his size, competitors and maybe improve project scope based on this knowledge
 
