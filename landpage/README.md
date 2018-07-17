@@ -8,4 +8,4 @@
 
 ## Design
 
- * (Version1)[./desing/design_v1.jpg]
+ * [Version 1](./design/design_v1.jpg)
