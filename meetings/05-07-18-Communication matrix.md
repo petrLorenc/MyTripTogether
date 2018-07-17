@@ -1,7 +1,8 @@
-  #05-07-18-Communication planning day and team forming
-  #Parties included: All stakeholders
-  #Input: X
-  #Expected output: Communication matrix (plan)
+  
+    #05-07-18-Communication planning day and team forming
+    #Parties included: All stakeholders
+    #Input: X
+    #Expected output: Communication matrix (plan)
 
 REASON OF THIS DOCUMENT: To keep updated all stakeholders, support communication and remove developing features, which are not usefull or necessary. Describe parts of team.
 
