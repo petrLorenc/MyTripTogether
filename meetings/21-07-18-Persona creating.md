@@ -1,7 +1,7 @@
-  #21-07-18-Persona creating
-  #Parties included: PM, Market research
-  #Input: Project Scope/Charter, Market Research
-  #Expected output: Persona description and their use-cases
+    #21-07-18-Persona creating
+    #Parties included: PM, Market research
+    #Input: Project Scope/Charter, Market Research
+    #Expected output: Persona description and their use-cases
 
 REASON OF THIS DOCUMENT: To find typical user of the application with, describe him and determine how he can use the system.
 
