@@ -72,3 +72,6 @@ Would like to take closer look:
  * Asana
  * Zapier
 
+## Links
+
+ * [Landpage](./landpage/README.md)
