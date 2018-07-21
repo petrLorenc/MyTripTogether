@@ -74,4 +74,4 @@ Would like to take closer look:
 
 ## Links
 
- * [Landpage](./landpage/README.md)
+ * [Landing page](./landingpage/README.md)
