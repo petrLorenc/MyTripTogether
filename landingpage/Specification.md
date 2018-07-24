@@ -2,8 +2,8 @@
 
 ## Purpose
 
- * Short introduction of service based on [Project Charter](../meeting/20-06-18-Project Charter.md) and [Idea description](../meeting/20-06-18-Idea destription.md)
- * Showcase of use-cases based on [Personas](../meeting/21-07-18-Persona creating.md)
+ * Short introduction of service based on [Project Charter]('../meeting/20-06-18-Project%20Charter.md') and [Idea description](../meeting/20-06-18-Idea%20destription.md)
+ * Showcase of use-cases based on [Personas](../meeting/21-07-18-Persona%20creating.md)
 
 ## Functionality
 
@@ -43,7 +43,7 @@
     * Who we are
     * Office in the basement
 
-###Budget
+### Budget
 
  * 20 MD design
  * 30 MD implementation 
